@@ -1,0 +1,14 @@
+It is a very light service and could be made better.
+The features of this service are very light and need detailing.
+The loading time of this service is not that great and this is the bittersweet.
+The web service is very heavy and the features are not compressed.
+The features upgradation process is tedious.
+The service cannot take a lot of load.
+The service hangs when put under load and gives poor response. 
+The service really needs to be upgraded.
+The scope of this web servies's prime feature is very limited.
+There is a lot of scope of improvment in this service.
+The application hangs very often and needs to be improved. 
+I feel this service needs a quick time for updations. 
+Why do all users not receive the upgradation request at the same time?
+The web service is very light and does not occupy lot of space, yet the time it takes lot of time to compute results.
